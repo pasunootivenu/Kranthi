@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/selenium2/se,lenium-java/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/selenium2/se,lenium-java/libs/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/selenium2/se,lenium-java/libs/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="E:/selenium2/se,lenium-java/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/selenium2/se,lenium-java/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/selenium2/se,lenium-java/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium2/se,lenium-java/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/home/Downloads/extentreports-2.41.1-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
